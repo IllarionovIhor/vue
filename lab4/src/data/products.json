@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Ultra",
+    "description": "Latest generation smartphone with a stunning OLED display and pro-grade camera system.",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "qty": 1
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "Tactile mechanical keyboard with customizable RGB backlighting and wrist rest.",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212",
+    "qty": 1
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD Monitor",
+    "description": "27-inch 4K monitor with color accuracy perfect for graphic design and gaming.",
+    "price": 350,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+    "qty": 1
+  },
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "description": "Compact wireless earbuds with active noise cancellation and a wireless charging case.",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df",
+    "qty": 1
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Office Chair",
+    "description": "Breathable mesh back office chair with adjustable lumbar support.",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1",
+    "qty": 1
+  },
+  {
+    "id": 6,
+    "name": "Portable SSD 1TB",
+    "description": "High-speed portable solid-state drive with drop protection.",
+    "price": 110,
+    "image": "https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/sandisk_sdssde61_1t00_g25_1tb_extreme_portable_ssd_1686567028_1595431.jpg",
+    "qty": 1
+  },
+  {
+    "id": 7,
+    "name": "HD Web Camera",
+    "description": "1080p webcam with dual stereo microphones and an auto-focus lens.",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1599839619722-39751411ea63",
+    "qty": 1
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Portable Speaker",
+    "description": "Waterproof Bluetooth speaker with 20 hours of battery life and deep bass.",
+    "price": 85,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+    "qty": 1
+  },
+  {
+    "id": 9,
+    "name": "Fitness Yoga Mat",
+    "description": "Non-slip, eco-friendly yoga mat with alignment lines.",
+    "price": 30,
+    "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2",
+    "qty": 1
+  },
+  {
+    "id": 10,
+    "name": "USB-C Hub adapter",
+    "description": "7-in-1 multi-port adapter with HDMI, USB 3.0, and SD card readers.",
+    "price": 45,
+    "image": "https://m.media-amazon.com/images/I/61Nb935ZpsL.jpg",
+    "qty": 1
+  }
+]

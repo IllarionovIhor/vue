@@ -1,0 +1,78 @@
+{
+  "placeholders": {
+    "name": "Name",
+    "email": "Email",
+    "address": "Address"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "add": "Add Phones",
+    "delete": "Delete",
+    "clear": "Clear",
+    "addToCart": "Add To Cart"
+  },
+  "legacy": "Phones",
+  "errors": {
+    "name": {
+      "min": "Name must not be less than 3 characters",
+      "required": "Name is required"
+    },
+    "email": {
+      "regex": "Please enter valid email",
+      "required": "Email is required"
+    },
+    "address": "Address is required",
+    "phones": "Phone is required",
+    "dateOfBirth": "Date is required"
+  },
+  "headers": {
+    "products": "Products",
+    "cart": "Cart",
+    "profile": "Profile"
+  },
+  "totalCount": "Total Count",
+  "totalPrice": "Total Price",
+"products": {
+    "1": {
+      "name": "Smartphone Ultra",
+      "description": "Latest generation smartphone with a stunning OLED display and pro-grade camera system."
+    },
+    "2": {
+      "name": "Mechanical Keyboard",
+      "description": "Tactile mechanical keyboard with customizable RGB backlighting and wrist rest."
+    },
+    "3": {
+      "name": "4K Ultra HD Monitor",
+      "description": "27-inch 4K monitor with color accuracy perfect for graphic design and gaming."
+    },
+    "4": {
+      "name": "Wireless Earbuds",
+      "description": "Compact wireless earbuds with active noise cancellation and a wireless charging case."
+    },
+    "5": {
+      "name": "Ergonomic Office Chair",
+      "description": "Breathable mesh back office chair with adjustable lumbar support."
+    },
+    "6": {
+      "name": "Portable SSD 1TB",
+      "description": "High-speed portable solid-state drive with drop protection."
+    },
+    "7": {
+      "name": "HD Web Camera",
+      "description": "1080p webcam with dual stereo microphones and an auto-focus lens."
+    },
+    "8": {
+      "name": "Bluetooth Portable Speaker",
+      "description": "Waterproof Bluetooth speaker with 20 hours of battery life and deep bass."
+    },
+    "9": {
+      "name": "Fitness Yoga Mat",
+      "description": "Non-slip, eco-friendly yoga mat with alignment lines."
+    },
+    "10": {
+      "name": "USB-C Hub adapter",
+      "description": "7-in-1 multi-port adapter with HDMI, USB 3.0, and SD card readers."
+    }
+  }
+}
