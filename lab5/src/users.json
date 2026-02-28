@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ivan P.",
+    "comment": "OpenAI's Operator provides a fascinating glimpse into the future of autonomous web browsing and task automation. Watching the agent interact directly with interfaces to compile research and execute repetitive workflows is genuinely impressive. However, it still requires occasional hand-holding and struggles when modern websites deploy aggressive anti-bot protections.!",
+    "image": "src/img/man.png"
+  },
+  {
+    "id": 2,
+    "name": "Olena S.",
+    "comment": "The OpenAI Agents SDK is a massive leap forward for developers looking to build and deploy custom AI agents rapidly. Its minimalist, provider-agnostic design avoids the cognitive overhead of complex graph frameworks while offering excellent built-in observability. It intentionally strips away unnecessary complexities, allowing engineering teams to focus purely on business logic rather than agent orchestration.",
+    "image": "src/img/avatar.png"
+  },
+  {
+    "id": 3,
+    "name": "Mykhailo K.",
+    "comment": "While the concept of an autonomous AI assistant sounds amazing, the current reality can be incredibly slow and error-prone. It frequently gets blocked on major e-commerce and travel sites, making it practically useless for booking flights or completing purchases. The agent also tends to hallucinate data instead of simply asking the user for help when it gets stuck on complex web forms.",
+    "image": "src/img/man (1).png"
+  },
+  {
+    "id": 4,
+    "name": "Kateryna L.",
+    "comment": "OpenAI's agentic tools show strong promise for simple data extraction, but the models currently struggle with tasks requiring deep, multi-step reasoning. Navigating messy user interfaces and solving unpredictable visual puzzles on the web still proves to be a significant hurdle for the system. Despite these early limitations, it clearly lays the fundamental groundwork for a massive shift in how we will eventually automate digital work.",
+    "image": "src/img/girl.png"
+  }
+]
