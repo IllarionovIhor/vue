@@ -1,5 +1,5 @@
 {
-  "name": "vue-project",
+  "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,15 +8,12 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+
   "dependencies": {
-    "@vuepic/vue-datepicker": "^11.0.2",
-    "vue": "^3.5.21",
-    "vue-router": "^4.6.3",
-    "vuetify": "^3.10.9"
+    "vue": "^3.5.24"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
-    "vite": "^7.1.7",
-    "vite-plugin-vue-devtools": "^8.0.2"
+    "vite": "^7.2.2"
   }
 }

@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <h1>AboutView</h1>
+<h1>
+  not found page
+</h1>
 </template>
 
 <style scoped>

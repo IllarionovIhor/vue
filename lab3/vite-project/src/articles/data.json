@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "The dow is above 50 000",
+    "description": "Pam bondy said in a hearing that the DOW is 50 000",
+    "date": "2026-02-11",
+    "image": "https://independentaustralia.net/_lib/slir/w800-c660x434/i/article/img/article-19811-hero.jpg?t=1749265169"
+  },
+  {
+    "id": 2,
+    "title": "Grocery prices are up",
+    "description": "food is increasing in price. How much? who knows",
+    "date": "2026-01-10",
+    "image": "https://images.squarespace-cdn.com/content/v1/57879a6cbebafb879f256735/1712832754805-I7IJ7FRXF629FN3PIS3O/KC310124-27.jpg"
+  },
+  {
+    "id": 3,
+    "title": "New Olympic record",
+    "description": "This guy sure is good at jumping",
+    "date": "2026-01-09",
+    "image": "https://media.gettyimages.com/id/1770279962/photo/smiling-man-levitating-in-mid-air.jpg?s=612x612&w=gi&k=20&c=JCGG07ipNnVF9FIRPYF6E50ttPLEH31KWkS1U7wT2gg="
+  },
+  {
+    "id": 4,
+    "title": "Stock photographers are doing irony",
+    "description": "Not sure where they are going with it",
+    "date": "2025-11-08",
+    "image": "https://strategylab.ca/wp-content/uploads/2016/01/Stock-Photos-are-the-worst.jpg"
+  },
+  {
+    "id": 5,
+    "title": "This cat became a trillioner",
+    "description": "He achieved his wealth on polymarket by betting against jesus christ returning in 2026",
+    "date": "2025-11-07",
+    "image": "https://cdn.theatlantic.com/media/mt/science/cat_caviar.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Arguments aren't pleasant",
+    "description": "Tune in to find out more",
+    "date": "2025-11-06",
+    "image": "https://expertphotography.com/img/2022/03/What-Are-Stock-Photos-Ale-Bloshka.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Climate change threatens 364th fish species",
+    "description": "Get ready to celebrate the 400th done soon, scientists say",
+    "date": "2025-11-05",
+    "image": "https://www.presentation-company.com/wp-content/uploads/2018/03/shutterstock_61231831.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bitcoin did the thing",
+    "description": "Bitcoin did what it always does. Everyone's shocked",
+    "date": "2025-11-04",
+    "image": "https://www.investopedia.com/thmb/tZ1iUtk_BlUqKiufI7qmFpu_m-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/StockTraderDefinitionTypesVs.StockBroker-2f2fe4ba7f14437ab75c6ac462bbeb85.jpg"
+  }
+]
